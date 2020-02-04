@@ -1,0 +1,24 @@
+{
+    "name": "wdm/twentynineteen-child",
+    "description": "WordPress child-theme for Twenty Nineteen.",
+    "license": "GPL-2.0+",
+    "type": "wordpress-theme",
+    "authors": [
+        {
+            "name": "web dev media UG",
+            "role": "Developer",
+            "homepage": "https://web-dev-media.de",
+            "email": "info@web-dev-media.de"
+        }
+    ],
+
+    "support": {
+        "issues": "https://web-dev-media.de"
+    },
+
+    "require": {
+        "php": ">=7.0",
+        "composer/installers": "~1.0",
+        "wpackagist-theme/twentynineteen":"1.4"
+    },
+}
